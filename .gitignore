@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.pnpm-store/
+.DS_Store
+*.local
+.tools/
+.gh-config/
+.npm-cache/
+.deploy-tmp/
